@@ -20,6 +20,7 @@ So far, thanks to this course I have learned about:
 - Pipes
 - Making Http Requests
 - Authentication and Route Protection
+- Dynamic Components
 
 ## General Information
 
