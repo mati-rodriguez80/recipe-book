@@ -21,6 +21,8 @@ So far, thanks to this course I have learned about:
 - Making Http Requests
 - Authentication and Route Protection
 - Dynamic Components
+- Modules and Optimizing Angular Apps
+- Deploying an Angular App
 
 ## General Information
 
